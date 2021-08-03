@@ -1,0 +1,25 @@
+{
+  "name": "orlog-db",
+  "version": "1.0.0",
+  "description": "SQL db for orlog game currently in development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecnelson1/orlog-db.git"
+  },
+  "author": "Eion Nelson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecnelson1/orlog-db/issues"
+  },
+  "homepage": "https://github.com/ecnelson1/orlog-db#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "pg": "^8.7.1"
+  }
+}
